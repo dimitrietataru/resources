@@ -149,15 +149,39 @@
 
 ## VIDEOS
 
+### Kevlin Henney
+* [Seven ineffective coding habits of many programmers - *Kevlin Henney*](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+* [Small is beautiful - *Kevlin Henney*](https://www.youtube.com/watch?v=B3b4tremI5o)
+* [Declarative thinking, declarative practice - *Kevlin Henney*](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
+* [Test smells and fragrances - *Kevlin Henney*](https://www.youtube.com/watch?v=wCx_6kOo99M)
+* [The error of our ways - *Kevlin Henney*](https://www.youtube.com/watch?v=IiGXq3yY70o)
+* [The forgotten art of Structured Programming - *Kevlin Henney*](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
+* [Functional C++ - *Kevlin Henney*](https://www.youtube.com/watch?v=CIg6eyJv4dk)
+
 ### Coding
 * [Clean Code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
+* [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
+* [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+* [The clean code talks - Inheritance, polymorphism, and testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 
 ### NDC Conferences
-* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=_dQRAsVhCqA)
-* [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [C# 8 - *Jon Skeet*, and *Mads Torgersen*](https://www.youtube.com/watch?v=gGUYUJmssYM)
+* [C# 7 - *Jon Skeet*](https://www.youtube.com/watch?v=yj9GKRxFxVU)
+* [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
+* [Correcting common async/await mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
+* [Domain-Driven Design: The good parts - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [Domain-Driven Refactoring - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [The Power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
+* [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
+* [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
+* [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
 
 ### Optimization
 * [C# LINQ Performance Tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
+* [Why you should take another look at C# - *Mads Torgersen*](https://www.youtube.com/watch?v=zQXNq-isqFI)
+* [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
+* [The changing state of immutability C# - *Jon Skeet*](https://www.youtube.com/watch?v=O89-zG84QK4)
+* [Back to basics: The mess we've made of our fundamental data types - *Jon Skeet*](https://www.youtube.com/watch?v=mayHrEzThUk)
 
 ## BOOKS
 
