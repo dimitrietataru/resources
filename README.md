@@ -141,14 +141,24 @@
 
 ## OBJECT ORIENTED PROGRAMMING
 
----
+* [Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
+* [Open Closed Principle Explained Practically in C# (The O in SOLID)](https://www.youtube.com/watch?v=VFlk43QGEgc)
+* [Liskov Substitution Principle Explained Practically in C# (The L in SOLID)](https://www.youtube.com/watch?v=-3UXq2krhyw)
+* [Interface Segregation Principle Explained Practically in C# (The I in SOLID)](https://www.youtube.com/watch?v=y1JiMGP51NE)
+* [Dependency Inversion Principle Explained Practically in C# (The D in SOLID)](https://www.youtube.com/watch?v=NnZZMkwI6KI)
 
 ## VIDEOS
 
----
+### Coding
+* [Clean Code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
+
+### NDC Conferences
+* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+
+### Optimization
+* [C# LINQ Performance Tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
 
 ## BOOKS
-
----
 
 ## OTHER RESOURCES
