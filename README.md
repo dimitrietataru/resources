@@ -1,6 +1,6 @@
-# .NET RESOURCES
+# **.NET RESOURCES**
 
-## Table of contents
+## **TABLE OF CONTENTS**
 * [Versions and History](#versions-and-history)
   * [Language](#language)
   * [Framework](#framework)
@@ -9,7 +9,7 @@
 * [Books](#books)
 * [Other resources](#other-resources)
 
-## VERSIONS AND HISTORY
+## **VERSIONS AND HISTORY**
 
 ### LANGUAGE
 * C# 8
@@ -139,7 +139,7 @@
 |1.0.3|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.3.md)||
 |1.0.0|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md)|[Blog roundup](https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0)|
 
-## OBJECT ORIENTED PROGRAMMING
+## *OBJECT ORIENTED PROGRAMMING*
 
 * [Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
 * [Open Closed Principle Explained Practically in C# (The O in SOLID)](https://www.youtube.com/watch?v=VFlk43QGEgc)
@@ -147,7 +147,7 @@
 * [Interface Segregation Principle Explained Practically in C# (The I in SOLID)](https://www.youtube.com/watch?v=y1JiMGP51NE)
 * [Dependency Inversion Principle Explained Practically in C# (The D in SOLID)](https://www.youtube.com/watch?v=NnZZMkwI6KI)
 
-## VIDEOS
+## **VIDEOS**
 
 ### Youtube channels
 * [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
@@ -164,17 +164,17 @@
 * [The error of our ways - *Kevlin Henney*](https://www.youtube.com/watch?v=IiGXq3yY70o)
 * [The forgotten art of Structured Programming - *Kevlin Henney*](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
 
-### Jimmy Bogard
-* [Domain-Driven Design: The good parts - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
-* [Domain-Driven Refactoring - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
-* [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
-
 ### Jon Skeet
 * [Abusing C# - *Jon Skeet*](https://www.youtube.com/watch?v=JIlO_EebEQI)
 * [Back to basics: The mess we've made of our fundamental data types - *Jon Skeet*](https://www.youtube.com/watch?v=mayHrEzThUk)
 * [C# 8 - *Jon Skeet*, and *Mads Torgersen*](https://www.youtube.com/watch?v=gGUYUJmssYM)
 * [C# 7 - *Jon Skeet*](https://www.youtube.com/watch?v=yj9GKRxFxVU)
 * [The changing state of immutability C# - *Jon Skeet*](https://www.youtube.com/watch?v=O89-zG84QK4)
+
+### Jimmy Bogard
+* [Domain-Driven Design: The good parts - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [Domain-Driven Refactoring - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
 ### Coding
 * [C# LINQ Performance Tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
@@ -199,6 +199,7 @@
 * [What is a Monad? - *Computerphile*](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 * [What is the future of .NET? Is .NET Framework dead? Is .NET Core dead? - *Tim Corey*](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
 
-## BOOKS
+## **BOOKS**
 
-## OTHER RESOURCES
+## **OTHER RESOURCES**
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
