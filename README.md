@@ -151,6 +151,8 @@
 
 ### Youtube channels
 * [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
+* [DotNext](https://www.youtube.com/channel/UCNPwMPudMEw-gnAT4zh_UZg)
+* [DevTernity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ)
 * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
 
 ### Kevlin Henney
@@ -158,6 +160,7 @@
 * [Declarative thinking, declarative practice - *Kevlin Henney*](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
 * [Get kata - *Kevlin Henney*](https://www.youtube.com/watch?v=_M4o0ExLQCs)
 * [Functional C++ - *Kevlin Henney*](https://www.youtube.com/watch?v=CIg6eyJv4dk)
+* [Lean code - *Kevlin Henney*](https://www.youtube.com/watch?v=-nWhH-4wWBU)
 * [Seven ineffective coding habits of many programmers - *Kevlin Henney*](https://www.youtube.com/watch?v=ZsHMHukIlJY)
 * [Small is beautiful - *Kevlin Henney*](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Test smells and fragrances - *Kevlin Henney*](https://www.youtube.com/watch?v=wCx_6kOo99M)
@@ -167,20 +170,24 @@
 ### Jon Skeet
 * [Abusing C# - *Jon Skeet*](https://www.youtube.com/watch?v=JIlO_EebEQI)
 * [Back to basics: The mess we've made of our fundamental data types - *Jon Skeet*](https://www.youtube.com/watch?v=mayHrEzThUk)
-* [C# 8 - *Jon Skeet*, and *Mads Torgersen*](https://www.youtube.com/watch?v=gGUYUJmssYM)
 * [C# 7 - *Jon Skeet*](https://www.youtube.com/watch?v=yj9GKRxFxVU)
+* [C# 8 - *Jon Skeet*, and *Mads Torgersen*](https://www.youtube.com/watch?v=gGUYUJmssYM)
 * [The changing state of immutability C# - *Jon Skeet*](https://www.youtube.com/watch?v=O89-zG84QK4)
 
 ### Jimmy Bogard
 * [Domain-Driven Design: The good parts - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
 * [Domain-Driven Refactoring - *Jimmy Bogard*](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+* [Effective microservice communication and conversation patterns - *Jimmy Bogard*](https://www.youtube.com/watch?v=aHsVsbo_VOE)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
 ### Coding
-* [C# LINQ Performance Tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
-* [Clean Code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
+* [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
+* [Clean code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
 * [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
+* [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - *Jules May*](https://www.youtube.com/watch?v=z43bmaMwagI)
+* [TDD: The bad parts — *Matt Parker*](https://www.youtube.com/watch?v=xPL84vvLwXA)
+* [TDD: Where did it all go wrong - *Ian Cooper*](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [The clean code talks - Inheritance, polymorphism, and testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 * [Why you should take another look at C# - *Mads Torgersen*](https://www.youtube.com/watch?v=zQXNq-isqFI)
@@ -188,15 +195,17 @@
 ### NDC Conferences
 * [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
 * [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
-* [Correcting common async/await mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
+* [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
+* [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [The lazy programmer's guide to writing thousands of tests - *Scott Wlaschin*](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 * [The power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
 
 ### Others
-* [What is a Monad? - *Computerphile*](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+* [The last programming language](https://www.youtube.com/watch?v=P2yr-3F6PQo)
+* [What is a monad? - *Computerphile*](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 * [What is the future of .NET? Is .NET Framework dead? Is .NET Core dead? - *Tim Corey*](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
 
 ## **BOOKS**
