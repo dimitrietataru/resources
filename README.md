@@ -37,6 +37,7 @@
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/master/release-notes/3.1)
 ||||
 | :---:|:---:|:---:|
+|3.1.8|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.8/3.1.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
 |3.1.7|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.7/3.1.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-august-2020)|
 |3.1.6|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.6/3.1.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-july-2020)|
 |3.1.5|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.5/3.1.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-june-2020-updates-2-1-19-and-3-1-5)|
@@ -153,6 +154,7 @@
 * [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
 * [DotNext](https://www.youtube.com/channel/UCNPwMPudMEw-gnAT4zh_UZg)
 * [DevTernity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ)
+* [Nick Chapsas](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
 
 ### Kevlin Henney
@@ -180,20 +182,17 @@
 * [Effective microservice communication and conversation patterns - *Jimmy Bogard*](https://www.youtube.com/watch?v=aHsVsbo_VOE)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
-### Coding
-* [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
-* [Clean code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
-* [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
-* [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
-* [If considered harmful: How to eradicate 95% of all your bugs in one simple step - *Jules May*](https://www.youtube.com/watch?v=z43bmaMwagI)
-* [TDD: The bad parts — *Matt Parker*](https://www.youtube.com/watch?v=xPL84vvLwXA)
-* [TDD: Where did it all go wrong - *Ian Cooper*](https://www.youtube.com/watch?v=EZ05e7EMOLM)
-* [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
-* [The clean code talks - Inheritance, polymorphism, and testing](https://www.youtube.com/watch?v=4F72VULWFvc)
-* [Why you should take another look at C# - *Mads Torgersen*](https://www.youtube.com/watch?v=zQXNq-isqFI)
+### Nick Chapsas
+* [8 async/await mistakes that you should avoid in .NET - *Nick Chapsas*](https://www.youtube.com/watch?v=lQu-eBIIh-w)
+* [Dynamically enabling features with *Feature Flags* in .NET Core 3.1 - *Nick Chapsas*](https://www.youtube.com/watch?v=6EebLChouDE)
+* [Generating realistic fake data in .NET using *Bogus* - *Nick Chapsas*](https://www.youtube.com/watch?v=T9pwE1GAr_U)
+* [How to add clean retrying in .NET Core using *Polly* - *Nick Chapsas*](https://www.youtube.com/watch?v=yXzn6HxTufM)
+* [Should you stop returning "null"? - *Nick Chapsas*](https://www.youtube.com/watch?v=OJjVvPINlYA)
+* [The circuit breaker pattern - *Nick Chapsas*](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 
 ### NDC Conferences
 * [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
+* [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
 * [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
@@ -202,6 +201,27 @@
 * [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [The lazy programmer's guide to writing thousands of tests - *Scott Wlaschin*](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 * [The power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
+
+### Architecture
+* [10 tips for failing badly at microservices - *David Schmitz*](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+* [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
+* [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
+* [Design microservice architectures the right way - *Michael Bryzek*](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
+
+### Coding
+* [ASP.NET Core 3.0: State of the art - *Dino Esposito*](https://www.youtube.com/watch?v=pZg0sM3o7Ss)
+* [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
+* [Clean code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
+* [ContinueWith: Solving async void - *SingletonSean*](https://www.youtube.com/watch?v=vYXs--S0Xxo)
+* [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
+* [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
+* [If considered harmful: How to eradicate 95% of all your bugs in one simple step - *Jules May*](https://www.youtube.com/watch?v=z43bmaMwagI)
+* [TDD: The bad parts — *Matt Parker*](https://www.youtube.com/watch?v=xPL84vvLwXA)
+* [TDD: Where did it all go wrong - *Ian Cooper*](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+* [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+* [The clean code talks - Inheritance, polymorphism, and testing](https://www.youtube.com/watch?v=4F72VULWFvc)
+* [Why you should take another look at C# - *Mads Torgersen*](https://www.youtube.com/watch?v=zQXNq-isqFI)
 
 ### Others
 * [The last programming language](https://www.youtube.com/watch?v=P2yr-3F6PQo)
