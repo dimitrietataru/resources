@@ -168,6 +168,8 @@
 * [Test smells and fragrances - *Kevlin Henney*](https://www.youtube.com/watch?v=wCx_6kOo99M)
 * [The error of our ways - *Kevlin Henney*](https://www.youtube.com/watch?v=IiGXq3yY70o)
 * [The forgotten art of Structured Programming - *Kevlin Henney*](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
+* [Thinking outside the synchronisation quadrant - *Kevlin Henney*](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
+* [What do you mean? - *Kevlin Henney*](https://www.youtube.com/watch?v=ndnvOElnyUg)
 
 ### Jon Skeet
 * [Abusing C# - *Jon Skeet*](https://www.youtube.com/watch?v=JIlO_EebEQI)
@@ -191,22 +193,34 @@
 * [The circuit breaker pattern - *Nick Chapsas*](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 
 ### NDC Conferences
+* [ASP.NET Core Kestrel: Adventures in building a fast web server - *Damian Edwards*, and *David Fowler*](https://www.youtube.com/watch?v=kej3YJDMAW4)
 * [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
+* [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
 * [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
+* [Death of a Craftsman: A software developer identity crisis - *Einar Høst*](https://www.youtube.com/watch?v=Zk3lerO6V8s)
+* [Do developers dream of stateless apps? - *Lukasz Gebel*](https://www.youtube.com/watch?v=Rm3IOOZSPEw)
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
+* [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=4yALYEINbyI)
 * [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [The lazy programmer's guide to writing thousands of tests - *Scott Wlaschin*](https://www.youtube.com/watch?v=IYzDFHx6QPY)
+* [The power of composition - *Scott Wlaschin*](https://www.youtube.com/watch?v=rCKPgu4DvcE)
 * [The power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
+* [Thinking outside the synchronisation quadrant - *Kevlin Henney*](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
+* [What were they thinking? Language design choices that seem wrong, until they don't - *Bill Wagner*](https://www.youtube.com/watch?v=PhRFLKtJcSs)
 
 ### Architecture
 * [10 tips for failing badly at microservices - *David Schmitz*](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+* [An opinionated, maintainable REST API architecture for ASP.NET Core - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=CH9VEeV-zok)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
+* [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Design microservice architectures the right way - *Michael Bryzek*](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Microservices anti-patterns - *Tammer Saleh*](https://www.youtube.com/watch?v=I56HzTKvZKc)
+* [Never RESTing: RESTful API best practices using ASP.NET Web API - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=x0yNKU-tz1Y)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
 ### Coding
@@ -217,6 +231,8 @@
 * [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
 * [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - *Jules May*](https://www.youtube.com/watch?v=z43bmaMwagI)
+* [Patterns for application development with ASP.NET Core - *Damian Edwards*, and *David Fowler*](https://www.youtube.com/watch?v=x-C-CNBVTaY)
+* [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=7GTpwgsmHgU)
 * [TDD: The bad parts — *Matt Parker*](https://www.youtube.com/watch?v=xPL84vvLwXA)
 * [TDD: Where did it all go wrong - *Ian Cooper*](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
@@ -229,6 +245,8 @@
 * [What is the future of .NET? Is .NET Framework dead? Is .NET Core dead? - *Tim Corey*](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
 
 ## **BOOKS**
+* [Clean code: A handbook of Agile Software Craftsmanship - *Robert C. Martin*](https://www.goodreads.com/book/show/3735293-clean-code)
+* [The passionate programmer - *Chad Fowler*](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 
 ## **OTHER RESOURCES**
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
