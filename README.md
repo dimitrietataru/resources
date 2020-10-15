@@ -37,6 +37,7 @@
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/master/release-notes/3.1)
 ||||
 | :---:|:---:|:---:|
+|3.1.9|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.9/3.1.9.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-october-2020)|
 |3.1.8|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.8/3.1.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
 |3.1.7|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.7/3.1.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-august-2020)|
 |3.1.6|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.6/3.1.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-july-2020)|
@@ -71,6 +72,8 @@
 #### [.NET Core 2.1](https://github.com/dotnet/core/tree/master/release-notes/2.1)
 ||||
 | :---:|:---:|:---:|
+|2.1.23|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.23/2.1.23.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-october-2020)|
+|2.1.22|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.22/2.1.22.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
 |2.1.21|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.21/2.1.21.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-august-2020)|
 |2.1.20|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.20/2.1.20.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-june-2020-updates-2-1-19-and-3-1-5)|
 |2.1.19|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.19/2.1.19.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-june-2020-updates-2-1-19-and-3-1-5)|
@@ -150,8 +153,9 @@
 
 ## **VIDEOS**
 
-### Youtube channels
+### YouTube channels
 * [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
+* [dotNET](https://www.youtube.com/c/dotNET)
 * [DotNext](https://www.youtube.com/channel/UCNPwMPudMEw-gnAT4zh_UZg)
 * [DevTernity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ)
 * [Nick Chapsas](https://www.youtube.com/watch?v=T9pwE1GAr_U)
@@ -193,6 +197,7 @@
 * [The circuit breaker pattern - *Nick Chapsas*](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 
 ### NDC Conferences
+* [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
 * [ASP.NET Core Kestrel: Adventures in building a fast web server - *Damian Edwards*, and *David Fowler*](https://www.youtube.com/watch?v=kej3YJDMAW4)
 * [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
@@ -204,6 +209,7 @@
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
+* [Opening keynote: NDC Sydney 2020 - *Dylan Beattie*](https://www.youtube.com/watch?v=KzJBm4nIKpA)
 * [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=4yALYEINbyI)
 * [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [The lazy programmer's guide to writing thousands of tests - *Scott Wlaschin*](https://www.youtube.com/watch?v=IYzDFHx6QPY)
@@ -215,6 +221,7 @@
 ### Architecture
 * [10 tips for failing badly at microservices - *David Schmitz*](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 * [An opinionated, maintainable REST API architecture for ASP.NET Core - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=CH9VEeV-zok)
+* [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
@@ -225,6 +232,7 @@
 
 ### Coding
 * [ASP.NET Core 3.0: State of the art - *Dino Esposito*](https://www.youtube.com/watch?v=pZg0sM3o7Ss)
+* [C# 9: Language features](https://www.youtube.com/watch?v=qiuzCWwYe0Y)
 * [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
 * [Clean code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
 * [ContinueWith: Solving async void - *SingletonSean*](https://www.youtube.com/watch?v=vYXs--S0Xxo)
