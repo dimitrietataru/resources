@@ -12,6 +12,8 @@
 ## **VERSIONS AND HISTORY**
 
 ### LANGUAGE
+* C# 9
+  * [9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
 * C# 8
   * [8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
 * C# 7 
@@ -34,9 +36,15 @@
   * [1.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
 
 ### FRAMEWORK
+#### [.NET 5.0](https://github.com/dotnet/core/tree/master/release-notes/5.0)
+||||
+| :---:|:---:|:---:|
+|5.0.0|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/5.0/5.0.0/5.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-net-5-0)|
+
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/master/release-notes/3.1)
 ||||
 | :---:|:---:|:---:|
+|3.1.10|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.10/3.1.10.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-november-2020)|
 |3.1.9|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.9/3.1.9.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-october-2020)|
 |3.1.8|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.8/3.1.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
 |3.1.7|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.7/3.1.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-august-2020)|
@@ -190,11 +198,14 @@
 
 ### Nick Chapsas
 * [8 async/await mistakes that you should avoid in .NET - *Nick Chapsas*](https://www.youtube.com/watch?v=lQu-eBIIh-w)
+* [Clean ASP.NET Core API using MediatR and CQRS: Setup - *Nick Chapsas*](https://www.youtube.com/watch?v=YzOBrVlthMk)
+* [Clean service decoration in .NET Core using Scrutor - *Nick Chapsas*](https://www.youtube.com/watch?v=m77s48tTdfU)
 * [Dynamically enabling features with *Feature Flags* in .NET Core 3.1 - *Nick Chapsas*](https://www.youtube.com/watch?v=6EebLChouDE)
 * [Generating realistic fake data in .NET using *Bogus* - *Nick Chapsas*](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 * [How to add clean retrying in .NET Core using *Polly* - *Nick Chapsas*](https://www.youtube.com/watch?v=yXzn6HxTufM)
 * [Should you stop returning "null"? - *Nick Chapsas*](https://www.youtube.com/watch?v=OJjVvPINlYA)
 * [The circuit breaker pattern - *Nick Chapsas*](https://www.youtube.com/watch?v=5_Bt_OEg0no)
+* [Trying to create a Dependency Injection/IoC Container from scratch - *Nick Chapsas*](https://www.youtube.com/watch?v=NSVZa4JuTl8)
 
 ### NDC Conferences
 * [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
@@ -206,9 +217,11 @@
 * [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
 * [Death of a Craftsman: A software developer identity crisis - *Einar Høst*](https://www.youtube.com/watch?v=Zk3lerO6V8s)
 * [Do developers dream of stateless apps? - *Lukasz Gebel*](https://www.youtube.com/watch?v=Rm3IOOZSPEw)
+* [F# as a better Python - *Phillip Carter*](https://www.youtube.com/watch?v=_QnbV6CAWXc)
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
+* [Navigating microservices with .NET Core - *Ryan Nowak*](https://www.youtube.com/watch?v=dubHmScPNzQ)
 * [Opening keynote: NDC Sydney 2020 - *Dylan Beattie*](https://www.youtube.com/watch?v=KzJBm4nIKpA)
 * [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=4yALYEINbyI)
 * [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
@@ -217,17 +230,21 @@
 * [The power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
 * [Thinking outside the synchronisation quadrant - *Kevlin Henney*](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
 * [What were they thinking? Language design choices that seem wrong, until they don't - *Bill Wagner*](https://www.youtube.com/watch?v=PhRFLKtJcSs)
+* [NDC Sydney 2020 - Party livestream](https://www.youtube.com/watch?v=otmiGlZRL1E)
 
 ### Architecture
 * [10 tips for failing badly at microservices - *David Schmitz*](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 * [An opinionated, maintainable REST API architecture for ASP.NET Core - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=CH9VEeV-zok)
 * [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
+* [API vs. SDK: What's the difference? - *Nathan Hekman*](https://www.youtube.com/watch?v=kG-fLp9BTRo)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Design microservice architectures the right way - *Michael Bryzek*](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Microservices anti-patterns - *Tammer Saleh*](https://www.youtube.com/watch?v=I56HzTKvZKc)
+* [Navigating microservices with .NET Core - *Ryan Nowak*](https://www.youtube.com/watch?v=dubHmScPNzQ)
 * [Never RESTing: RESTful API best practices using ASP.NET Web API - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=x0yNKU-tz1Y)
+* [The hardest part of microservices is your data - *Christian Posta*](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
 ### Coding
