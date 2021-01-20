@@ -40,12 +40,14 @@
 #### [.NET 5.0](https://github.com/dotnet/core/tree/master/release-notes/5.0)
 ||||
 | :---:|:---:|:---:|
+|5.0.2|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/5.0/5.0.2/5.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-january-2021)|
 |5.0.1|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/5.0/5.0.1/5.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-december-2020)|
 |5.0.0|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/5.0/5.0.0/5.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-net-5-0)|
 
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/master/release-notes/3.1)
 ||||
 | :---:|:---:|:---:|
+|3.1.11|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.11/3.1.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-january-2021)|
 |3.1.10|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.10/3.1.10.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-november-2020)|
 |3.1.9|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.9/3.1.9.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-october-2020)|
 |3.1.8|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/3.1/3.1.8/3.1.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
@@ -82,6 +84,7 @@
 #### [.NET Core 2.1](https://github.com/dotnet/core/tree/master/release-notes/2.1)
 ||||
 | :---:|:---:|:---:|
+|2.1.24|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.24/2.1.24.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-january-2021)|
 |2.1.23|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.23/2.1.23.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-october-2020)|
 |2.1.22|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.22/2.1.22.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-september-2020)|
 |2.1.21|[Release notes](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.21/2.1.21.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-august-2020)|
@@ -320,6 +323,7 @@
 * [DevTernity](https://www.youtube.com/channel/UCvzMZyJZZ3XYQwbvOACVYrQ)
 * [Nick Chapsas](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
+* [Microsoft Visual Studio](https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w)
 
 ### Kevlin Henney
 * [Clean coders hate what happens to your code when you use these enterprise programming tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
@@ -349,16 +353,19 @@
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 
 ### Nick Chapsas
+* [4 C# features that you (probably) shouldn't be using - *Nick Chapsas*](https://www.youtube.com/watch?v=yzg5-T67FCc)
 * [8 async/await mistakes that you should avoid in .NET - *Nick Chapsas*](https://www.youtube.com/watch?v=lQu-eBIIh-w)
 * [20 Nuget packages that every .NET developer should be familiar with - *Nick Chapsas*](https://www.youtube.com/watch?v=qapJwFY9y2Y)
 * [Benchmarking C# code using *BenchmarkDotNet* - *Nick Chapsas*](https://www.youtube.com/watch?v=EWmufbVF2A4)
 * [Clean ASP.NET Core API using MediatR and CQRS: Setup - *Nick Chapsas*](https://www.youtube.com/watch?v=YzOBrVlthMk)
 * [Clean service decoration in .NET Core using Scrutor - *Nick Chapsas*](https://www.youtube.com/watch?v=m77s48tTdfU)
 * [Creating a console-based microservice in .NET Core - *Nick Chapsas*](https://www.youtube.com/watch?v=FGsx7o7e-HU)
+* [Creating custom dependency scopes in .NET - *Nick Chapsas*](https://www.youtube.com/watch?v=a4K0YKGMioE)
 * [Dynamically enabling features with *Feature Flags* in .NET Core 3.1 - *Nick Chapsas*](https://www.youtube.com/watch?v=6EebLChouDE)
 * [Generating realistic fake data in .NET using *Bogus* - *Nick Chapsas*](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 * [How to add clean retrying in .NET Core using *Polly* - *Nick Chapsas*](https://www.youtube.com/watch?v=yXzn6HxTufM)
 * [Logging into *ElasticSearch* using *Serilog* and viewing logs in *Kibana* - *Nick Chapsas*](https://www.youtube.com/watch?v=0acSdHJfk64)
+* [Mapster, the best .NET mapper that you are (probably) not using - *Nick Chapsas*](https://www.youtube.com/watch?v=UIslFVEHkzA)
 * [Should you stop returning "null"? - *Nick Chapsas*](https://www.youtube.com/watch?v=OJjVvPINlYA)
 * [The circuit breaker pattern - *Nick Chapsas*](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 * [Trying to create a Dependency Injection/IoC Container from scratch - *Nick Chapsas*](https://www.youtube.com/watch?v=NSVZa4JuTl8)
@@ -368,10 +375,12 @@
 * [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
 * [ASP.NET Core Kestrel: Adventures in building a fast web server - *Damian Edwards*, and *David Fowler*](https://www.youtube.com/watch?v=kej3YJDMAW4)
 * [Back to basics: Efficient *async/await* - *Filip Ekberg*](https://www.youtube.com/watch?v=Al8LrBKpZEU)
+* [Beyond LINQ: Using expression trees in .NET - Max Arshinov](https://www.youtube.com/watch?v=ncdRDv6sV1A)
 * [Building an open source government application platform in the cloud - *Buadu*, *Larsen*, and *Kylstad*](https://www.youtube.com/watch?v=WY0Eo2vsOJg)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
+* [Common mistakes and misconceptions in web security using OAuth 2.0 and OpenId Connect - *Nahid Farrokhi*](https://www.youtube.com/watch?v=FR0HzDWBmz0)
 * [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
 * [Death of a Craftsman: A software developer identity crisis - *Einar Høst*](https://www.youtube.com/watch?v=Zk3lerO6V8s)
 * [Do developers dream of stateless apps? - *Lukasz Gebel*](https://www.youtube.com/watch?v=Rm3IOOZSPEw)
@@ -379,16 +388,25 @@
 * [F# as a better Python - *Phillip Carter*](https://www.youtube.com/watch?v=_QnbV6CAWXc)
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
+* [Functional architecture: The pits of success - *Mark Seemann*](https://www.youtube.com/watch?v=US8QG9I1XW0)
+* [Let’s get *lazy*: The real power of FP - *Venkat Subramaniam*](https://www.youtube.com/watch?v=ntWdmlrCheY)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
+* [Make your custom .NET GC: *whys* and *hows* - *Konrad Kokosa*](https://www.youtube.com/watch?v=zVbTmgbiZsA)
+* [Microservices for building an IDE: The innards of JetBrains Rider - *Maarten Balliauw*](https://www.youtube.com/watch?v=4dzpIjyb9mM)
 * [Navigating microservices with .NET Core - *Ryan Nowak*](https://www.youtube.com/watch?v=dubHmScPNzQ)
+* [One kata, three languages - *Mark Seemann*](https://www.youtube.com/watch?v=Ux5wUSOsEfc)
 * [Opening keynote: NDC Sydney 2020 - *Dylan Beattie*](https://www.youtube.com/watch?v=KzJBm4nIKpA)
 * [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=4yALYEINbyI)
+* [Practical Domain-Driven Design with EF Core - *Hossam Barakat*](https://www.youtube.com/watch?v=yxtsTEhb140)
+* [PRs: Merge with your team - *Eirik Isene*](https://www.youtube.com/watch?v=5JFBRCPhBxM)
+* [Pushing C# to the limit - *Joe Albahari*](https://www.youtube.com/watch?v=mLX1sYVf-Xg)
 * [State of the .NET performance - *Adam Sitnik*](https://www.youtube.com/watch?v=CSPSvBeqJ9c)
 * [The art of code - *Dylan Beattie*](https://www.youtube.com/watch?v=6avJHaC3C2U)
 * [The lazy programmer's guide to writing thousands of tests - *Scott Wlaschin*](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 * [The power of composition - *Scott Wlaschin*](https://www.youtube.com/watch?v=rCKPgu4DvcE)
 * [The power of Roslyn - *Kasey Uhlenhuth*](https://www.youtube.com/watch?v=nXljhGDokqA)
 * [Thinking outside the synchronisation quadrant - *Kevlin Henney*](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
+* [Visualise, document and explore your software architecture - *Simon Brown*](https://www.youtube.com/watch?v=Ym9nhVZs89o)
 * [What were they thinking? Language design choices that seem wrong, until they don't - *Bill Wagner*](https://www.youtube.com/watch?v=PhRFLKtJcSs)
 * [When each millisecond counts? - *Dmitry Konovalov*](https://www.youtube.com/watch?v=iUBX4vO8B1k)
 * [NDC Sydney 2020 - Party livestream](https://www.youtube.com/watch?v=otmiGlZRL1E)
@@ -402,13 +420,19 @@
 * [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Design microservice architectures the right way - *Michael Bryzek*](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Functional architecture: The pits of success - *Mark Seemann*](https://www.youtube.com/watch?v=US8QG9I1XW0)
+* [High-performance code design patterns in C# - *Konrad Kokosa*](https://www.youtube.com/watch?v=3r6gbZFRDHs)
+* [High-performance servers with NET Core - *Oren Eini*](https://www.youtube.com/watch?v=Zx87SEQpzfE)
 * [Microservices anti-patterns - *Tammer Saleh*](https://www.youtube.com/watch?v=I56HzTKvZKc)
+* [Microservices for building an IDE: The innards of JetBrains Rider - *Maarten Balliauw*](https://www.youtube.com/watch?v=4dzpIjyb9mM)
 * [Navigating microservices with .NET Core - *Ryan Nowak*](https://www.youtube.com/watch?v=dubHmScPNzQ)
 * [Never RESTing: RESTful API best practices using ASP.NET Web API - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=x0yNKU-tz1Y)
 * [The hardest part of microservices is your data - *Christian Posta*](https://www.youtube.com/watch?v=MrV0DqTqpFU)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
+* [Visualise, document and explore your software architecture - *Simon Brown*](https://www.youtube.com/watch?v=Ym9nhVZs89o)
 
 ### Coding
+* [10 C# libraries to save you time and energy - *Tim Corey*](https://www.youtube.com/watch?v=uS0hRJqamfU)
 * [ASP.NET Core 3.0: State of the art - *Dino Esposito*](https://www.youtube.com/watch?v=pZg0sM3o7Ss)
 * [C# 9: Language features](https://www.youtube.com/watch?v=qiuzCWwYe0Y)
 * [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
@@ -419,9 +443,15 @@
 * [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [Entity Framework Core 5.0: The next generation for data access - *Jeremy Likness*, and *Shay Rojansky*](https://www.youtube.com/watch?v=BIImyq8qaD4)
 * [Exploring Pattern Matching in C# - *Bill Wagner*](https://www.youtube.com/watch?v=2qf05XALZXo)
+* [Fast inverse square root — A Quake III algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+* [How I built the internet's best performing code execution engine (Piston) - *Engineer Man*](https://www.youtube.com/watch?v=SD4KgwdjmdI)
 * [If considered harmful: How to eradicate 95% of all your bugs in one simple step - *Jules May*](https://www.youtube.com/watch?v=z43bmaMwagI)
+* [Let’s get *lazy*: The real power of FP - *Venkat Subramaniam*](https://www.youtube.com/watch?v=ntWdmlrCheY)
+* [Make your custom .NET GC: *whys* and *hows* - *Konrad Kokosa*](https://www.youtube.com/watch?v=zVbTmgbiZsA)
 * [Patterns for application development with ASP.NET Core - *Damian Edwards*, and *David Fowler*](https://www.youtube.com/watch?v=x-C-CNBVTaY)
 * [Patterns for high-performance C# - *Federico Lois*](https://www.youtube.com/watch?v=7GTpwgsmHgU)
+* [Practical Domain-Driven Design with EF Core - *Hossam Barakat*](https://www.youtube.com/watch?v=yxtsTEhb140)
+* [Pushing C# to the limit - *Joe Albahari*](https://www.youtube.com/watch?v=mLX1sYVf-Xg)
 * [TDD: The bad parts — *Matt Parker*](https://www.youtube.com/watch?v=xPL84vvLwXA)
 * [TDD: Where did it all go wrong - *Ian Cooper*](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [The clean code talks - Don't look for things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
@@ -439,5 +469,12 @@
 * [Clean code: A handbook of Agile Software Craftsmanship - *Robert C. Martin*](https://www.goodreads.com/book/show/3735293-clean-code)
 * [The passionate programmer - *Chad Fowler*](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 
+## **GitHub**
+* [dotnet / core](https://github.com/dotnet/core)
+* [dotnet / efcore](https://github.com/dotnet/efcore)
+* [khellang / Scrutor](https://github.com/khellang/Scrutor)
+* [nbarbettini / BeautifulRestApi](https://github.com/nbarbettini/BeautifulRestApi)
+
 ## **OTHER RESOURCES**
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
