@@ -19,6 +19,8 @@
 <details> 
   <summary>Expand</summary>
 
+* C# 10
+  * [10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
 * C# 9
   * [9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
 * C# 8
