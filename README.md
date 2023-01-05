@@ -19,27 +19,20 @@
 <details> 
   <summary>Expand</summary>
 
-* C# 10
-  * [10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
-* C# 9
-  * [9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
-* C# 8
-  * [8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
-* C# 7 
+* [C# 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
+* [C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+* [C# 9](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
+* [C# 8](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
+* C# 7
   * [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3)
   * [7.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2)
   * [7.1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-1)
   * [7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
-* C# 6
-  * [6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)
-* C# 5
-  * [5.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-50)
-* C# 4
-  * [4.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-40)
-* C# 3
-  * [3.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-30)
-* C# 2
-  * [2.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
+* [C# 6](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)
+* [C# 5](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-50)
+* [C# 4](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-40)
+* [C# 3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-30)
+* [C# 2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
 * C# 1
   * [1.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-12)
   * [1.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
@@ -51,15 +44,36 @@
 <details> 
   <summary>Expand</summary>
 
-#### [.NET 6.0](https://github.com/dotnet/core/tree/main/release-notes/5.0)
+#### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.1/7.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
+|7.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.0/7.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7)|
+
+#### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
+||||
+|:---:|:---:|:---:|
+|6.0.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.12/6.0.12.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
+|6.0.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.11/6.0.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2022-updates)|
+|6.0.10|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.10/6.0.10.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2022-updates)|
+|6.0.9|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.9/6.0.9.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/september-2022-updates)|
+|6.0.8|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.8/6.0.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/august-2022-updates)|
+|6.0.7|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.7/6.0.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/july-2022-updates)|
+|6.0.6|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.6/6.0.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2022-updates)|
+|6.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.5/6.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/may-2022-updates)|
+|6.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.4/6.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2022-updates)|
+|6.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.3/6.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2022-updates)|
+|6.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.2/6.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2022-updates)|
 |6.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.1/6.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2021-updates)|
 |6.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.0/6.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6)|
 
-#### [.NET 5.0](https://github.com/dotnet/core/tree/main/release-notes/5.0)
+#### [.NET 5](https://github.com/dotnet/core/tree/main/release-notes/5.0)
 ||||
 |:---:|:---:|:---:|
+|5.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.17/5.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/may-2022-updates)|
+|5.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.16/5.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2022-updates)|
+|5.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.15/5.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2022-updates)|
+|5.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.14/5.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2022-updates)|
 |5.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.13/5.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2021-updates)|
 |5.0.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.12/5.0.12.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2021-updates)|
 |5.0.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.11/5.0.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2021-updates)|
@@ -78,6 +92,16 @@
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/main/release-notes/3.1)
 ||||
 |:---:|:---:|:---:|
+|3.1.32|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.32/3.1.32.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
+|3.1.31|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.31/3.1.31.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2022-updates)|
+|3.1.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.30/3.1.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2022-updates)|
+|3.1.29|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.29/3.1.29.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/september-2022-updates)|
+|3.1.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.28/3.1.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/august-2022-updates)|
+|3.1.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.27/3.1.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/july-2022-updates)|
+|3.1.26|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.26/3.1.26.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2022-updates)|
+|3.1.25|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.25/3.1.25.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/may-2022-updates)|
+|3.1.24|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.24/3.1.24.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2022-updates)|
+|3.1.23|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.23/3.1.23.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2022-updates)|
 |3.1.22|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.22/3.1.22.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2021-updates)|
 |3.1.21|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.21/3.1.21.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2021-updates)|
 |3.1.20|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.20/3.1.20.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2021-updates)|
