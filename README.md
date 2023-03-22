@@ -47,6 +47,7 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.4/7.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |7.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.3/7.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
 |7.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.2/7.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2023-updates)|
 |7.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.1/7.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
@@ -55,6 +56,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:---:|:---:|:---:|
+|6.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.15/6.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |6.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.14/6.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
 |6.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.13/6.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2023-updates)|
 |6.0.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.12/6.0.12.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
@@ -539,7 +541,10 @@
 * [F# for C# programmers - *Scott Wlaschin*](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 * [From **D**ependency **I**njection to **D**ependency **R**ejection - *Mark Seemann*](https://www.youtube.com/watch?v=cxs7oLGrxQ4)
 * [Functional architecture: The pits of success - *Mark Seemann*](https://www.youtube.com/watch?v=US8QG9I1XW0)
+* [Having fun with Generics and Abstract classes in C# - *Don Wibier*](https://www.youtube.com/watch?v=0FnJeikULJU)
+* [How I work with JSON - *Einar Høst*](https://www.youtube.com/watch?v=gWlLRRzPEcA)
 * [Let’s get *lazy*: The real power of FP - *Venkat Subramaniam*](https://www.youtube.com/watch?v=ntWdmlrCheY)
+* [Lies developers tell themselves - *Billy Hollis*](https://www.youtube.com/watch?v=cADdwFk2-7U)
 * [Make it boring - *Jeremy Wagner*](https://www.youtube.com/watch?v=eDbsOxGjqSc)
 * [Make your custom .NET GC: *whys* and *hows* - *Konrad Kokosa*](https://www.youtube.com/watch?v=zVbTmgbiZsA)
 * [Microservices for building an IDE: The innards of JetBrains Rider - *Maarten Balliauw*](https://www.youtube.com/watch?v=4dzpIjyb9mM)
@@ -566,10 +571,12 @@
 * [An opinionated, maintainable REST API architecture for ASP.NET Core - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=CH9VEeV-zok)
 * [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
 * [API vs. SDK: What's the difference? - *Nathan Hekman*](https://www.youtube.com/watch?v=kG-fLp9BTRo)
+* [Building a microservice architecture with ASP.NET Core - *Gill Cleeren*](https://www.youtube.com/watch?v=SR53SKIUYPA)
 * [Building and generating a .NET client for a large API - *Maarten Balliauw*](https://www.youtube.com/watch?v=w4wZ8G6QALs)
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Building microservices with .NET Core and Docker - *Edwin van Wijk*](https://www.youtube.com/watch?v=-AfZxdXa7yc)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
+* [Come learn Kubernetes! - *Blaize Stewart*](https://www.youtube.com/watch?v=vrPgLltHkvg)
 * [Design microservice architectures the right way - *Michael Bryzek*](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Functional architecture: The pits of success - *Mark Seemann*](https://www.youtube.com/watch?v=US8QG9I1XW0)
 * [High-performance code design patterns in C# - *Konrad Kokosa*](https://www.youtube.com/watch?v=3r6gbZFRDHs)
@@ -595,6 +602,7 @@
 * [C# source generators: Write code that writes code - *David Wengier*](https://www.youtube.com/watch?v=3YwwdoRg2F4)
 * [Clean code](https://www.youtube.com/watch?v=HZJxjlvBbVA)
 * [ContinueWith: Solving async void - *SingletonSean*](https://www.youtube.com/watch?v=vYXs--S0Xxo)
+* [Cursor pagination and database index seek - *Milan Jovanovic*](https://www.youtube.com/watch?v=gfRJBoOuNUA)
 * [Design tech talk - OO design for testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
 * [Does TDD really lead to good design? - *Sandro Mancuso*](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [Efficient exponentiation - *mCoding*](https://www.youtube.com/watch?v=BfNlzdFa_a4)
