@@ -19,6 +19,7 @@
 <details> 
   <summary>Expand</summary>
 
+* [C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
 * [C# 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
 * [C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
 * [C# 9](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
@@ -47,6 +48,7 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.5/7.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2023-updates)|
 |7.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.4/7.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |7.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.3/7.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
 |7.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.2/7.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2023-updates)|
@@ -56,6 +58,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:---:|:---:|:---:|
+|6.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.16/6.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2023-updates)|
 |6.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.15/6.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |6.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.14/6.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
 |6.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.13/6.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2023-updates)|
