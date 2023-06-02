@@ -417,6 +417,9 @@
 
 ### YouTube channels
 * [NDC Conferences](https://www.youtube.com/@NDC)
+  * [NDC London 2023](https://www.youtube.com/watch?v=ND_AjF_KTD8&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8)
+  * [NDC Security 2023](https://www.youtube.com/watch?v=BkigVNNSurI&list=PL03Lrmd9CiGey4D3-wb_2SWTmLJtGHC_j)
+  * [NDC Sydney 2022](https://www.youtube.com/watch?v=kMI1wAQ3XeQ&list=PL03Lrmd9CiGdFcrzX9VXWYvr21rnGYPry)
   * [NDC Oslo 2022](https://www.youtube.com/watch?v=p0oTrCZ5acE&list=PL03Lrmd9CiGdOxMEQ6JS6GDT3BV8-_Xki)
   * [NDC Minnesota 2022](https://www.youtube.com/watch?v=-6iRgh9FCOs&list=PL03Lrmd9CiGfX-SRgaX96c0IS3NJnWpbF)
   * [NDC Melbourne 2022](https://www.youtube.com/watch?v=reL-ke2J03o&list=PL03Lrmd9CiGccT0ERZ9YywROnQryo6gLG)
@@ -535,6 +538,7 @@
 * [Building event-driven microservices with Event Sourcing and CQRS - *Lidan Hifi*](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Capability mapping - *Ian Cooper*](https://www.youtube.com/watch?v=JBSIdlWJcSU)
 * [Change your habits: Modern techniques for modern C# - *Bill Wagner*](https://www.youtube.com/watch?v=aUbXGs7YTGo)
+* [Clean Testing: Clean Architecture with .NET Core - *Jason Taylor*](https://www.youtube.com/watch?v=hV43fiHYBb4)
 * [Common mistakes and misconceptions in web security using OAuth 2.0 and OpenId Connect - *Nahid Farrokhi*](https://www.youtube.com/watch?v=FR0HzDWBmz0)
 * [Correcting common **async/await** mistakes in .NET - *Brandon Minnick*](https://www.youtube.com/watch?v=J0mcYVxJEl0)
 * [Death of a Craftsman: A software developer identity crisis - *Einar Høst*](https://www.youtube.com/watch?v=Zk3lerO6V8s)
@@ -570,6 +574,7 @@
 * [NDC Sydney 2020 - Party livestream](https://www.youtube.com/watch?v=otmiGlZRL1E)
 
 ### Architecture
+* ['Wouldn’t it be cool..' and other bad design approaches - *Billy Hollis*](https://www.youtube.com/watch?v=GGUqyb6mzDw)
 * [10 tips for failing badly at microservices - *David Schmitz*](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 * [An opinionated, maintainable REST API architecture for ASP.NET Core - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=CH9VEeV-zok)
 * [Anatomy of ASP.NET Core requests - *Steve Gordon*](https://www.youtube.com/watch?v=0UZf_7c_EeE)
@@ -590,15 +595,18 @@
 * [Navigating microservices with .NET Core - *Ryan Nowak*](https://www.youtube.com/watch?v=dubHmScPNzQ)
 * [Never RESTing: RESTful API best practices using ASP.NET Web API - *Spencer Schneidenbach*](https://www.youtube.com/watch?v=x0yNKU-tz1Y)
 * [The hardest part of microservices is your data - *Christian Posta*](https://www.youtube.com/watch?v=MrV0DqTqpFU)
+* [Top 5 techniques for building the worst microservice system ever - *William Brander*](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 * [Vertical slice architecture - *Jimmy Bogard*](https://www.youtube.com/watch?v=5kOzZz2vj2o)
 * [Visualise, document and explore your software architecture - *Simon Brown*](https://www.youtube.com/watch?v=Ym9nhVZs89o)
 * [When and how to use the actor model: An introduction to Akka.NET actors - *Aaron Stannard*](https://www.youtube.com/watch?v=MY1iPY78_fs)
 
 ### Coding
 * [.NET 6 deep dive. What's new and what's coming - *Scott Hunter*](https://www.youtube.com/watch?v=GJ_PaRNDe9E)
+* [.NET Data Community Standup - Collections of primitive values in EF Core](https://www.youtube.com/watch?v=AUS2OZjsA2I)
 * [5 performance tips in C#](https://www.youtube.com/watch?v=Tb2Fx9qku_o)
 * [10 C# libraries to save you time and energy - *Tim Corey*](https://www.youtube.com/watch?v=uS0hRJqamfU)
 * [30 string manipulation techniques in C# - *Tim Corey*](https://www.youtube.com/watch?v=ioi__WRETk4)
+* [Adding JWT Authentication & Authorization in ASP.NET Core - *Nick Chapsas*](https://www.youtube.com/watch?v=mgeuh8k3I4g)
 * [ASP.NET Core 3.0: State of the art - *Dino Esposito*](https://www.youtube.com/watch?v=pZg0sM3o7Ss)
 * [C# 9: Language features](https://www.youtube.com/watch?v=qiuzCWwYe0Y)
 * [C# LINQ performance tips #1 - Let keyword & Custom Lookup](https://www.youtube.com/watch?v=Dv_nsoEmC7s)
@@ -630,6 +638,14 @@
 * [When each millisecond counts? - *Dmitry Konovalov*](https://www.youtube.com/watch?v=iUBX4vO8B1k)
 * [Why you should take another look at C# - *Mads Torgersen*](https://www.youtube.com/watch?v=zQXNq-isqFI)
 * [Writing high performance code in .NET - *Bart De Smet*](https://www.youtube.com/watch?v=fI1XGVIQjkA)
+
+### System Design
+* [Google system design interview: Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
+
+### Tools
+* [Introduction to YARP: A .NET Reverse Proxy - *Raw Coding*](https://www.youtube.com/watch?v=EfVVvEtfgpI)
+* [New .http file support in Visual Studio 2022 - *Microsoft Visual Studio*](https://www.youtube.com/watch?v=ud0wx5mgniI)
+* [Speed up your builds of SDK-style .NET projects - *Microsoft Visual Studio*](https://www.youtube.com/watch?v=skUKcNMy1DA)
 
 ### Others
 * [The last programming language](https://www.youtube.com/watch?v=P2yr-3F6PQo)
