@@ -48,6 +48,8 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.8|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.8/7.0.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2023-updates)|
+|7.0.7|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.7/7.0.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2023-updates)|
 |7.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.5/7.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2023-updates)|
 |7.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.4/7.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |7.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.3/7.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
@@ -58,6 +60,8 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:---:|:---:|:---:|
+|6.0.19|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.19/6.0.19.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2023-updates)|
+|6.0.18|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.18/6.0.18.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/june-2023-updates)|
 |6.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.16/6.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2023-updates)|
 |6.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.15/6.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2023-updates)|
 |6.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.14/6.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2023-updates)|
