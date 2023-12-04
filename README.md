@@ -45,9 +45,15 @@
 <details> 
   <summary>Expand</summary>
 
+#### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
+||||
+|:---:|:---:|:---:|
+|8.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.0/8.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)|
+
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.14/7.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
 |7.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.13/7.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2023-updates)|
 |7.0.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.12/7.0.12.md)||
 |7.0.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.11/7.0.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/september-2023-updates)|
@@ -65,6 +71,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:---:|:---:|:---:|
+|6.0.25|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.25/6.0.25.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
 |6.0.24|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.24/6.0.24.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2023-updates)|
 |6.0.23|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.23/6.0.23.md)||
 |6.0.22|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.22/6.0.22.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/september-2023-updates)|
