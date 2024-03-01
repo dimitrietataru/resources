@@ -48,12 +48,14 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.2/8.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |8.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.1/8.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |8.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.0/8.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)|
 
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:---:|:---:|:---:|
+|7.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.16/7.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |7.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.15/7.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |7.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.14/7.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
 |7.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.13/7.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2023-updates)|
@@ -73,6 +75,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:---:|:---:|:---:|
+|6.0.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.27/6.0.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |6.0.26|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.26/6.0.26.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |6.0.25|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.25/6.0.25.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
 |6.0.24|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.24/6.0.24.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2023-updates)|
@@ -441,6 +444,17 @@
 
 ### YouTube channels
 * [NDC Conferences](https://www.youtube.com/@NDC)
+  * [.NET](https://www.youtube.com/watch?v=vkhtdgfHZYc&list=PL03Lrmd9CiGfr2mGZoRI1u2CIk3YxjnYt&pp=iAQB)
+  * [Architecture and Clouds](https://www.youtube.com/watch?v=fz389EfukQY&list=PL03Lrmd9CiGeT1EqaN4U4cCWqh3699AtB)
+  * [Security](https://www.youtube.com/watch?v=corgQcXfTRw&list=PL03Lrmd9CiGeW7SySmhjoEVaAvf736-M-&pp=iAQB)
+  * [Web](https://www.youtube.com/watch?v=wKU65gV6FSA&list=PL03Lrmd9CiGfe6Q-Vpgkr4LueSh6kT3m0&pp=iAQB)
+  * [Data and Machine Learning](https://www.youtube.com/watch?v=RDVKl-27g9M&list=PL03Lrmd9CiGfjOFcUf4a9K7NUr3McG_ME&pp=iAQB)
+  * [People and Process](https://www.youtube.com/watch?v=ASQf8FPp4S4&list=PL03Lrmd9CiGc0BJbLNB_HIf8Mgsbp2zAD)
+  * [NDC Security 2024](https://www.youtube.com/watch?v=IZyXOYNXbPk&list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2&pp=iAQB)
+  * [NDC Porto 2023](https://www.youtube.com/watch?v=vs3i_T2B5p4&list=PL03Lrmd9CiGfFN4igoVI4oiWbVJ93EVyR)
+  * [NDC TechTown 2023](https://www.youtube.com/watch?v=DRgoEKrTxXY&list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo)
+  * [NDC Copenhagen 2023 (Developers Festival)](https://www.youtube.com/watch?v=RDVKl-27g9M&list=PL03Lrmd9CiGe5MD08ND3lbAL8O6pCdK0y)
+  * [NDC Olso 2023](https://www.youtube.com/watch?v=3JARMLD2gus&list=PL03Lrmd9CiGep-YLPFkoLb_oxgTzS4GTX)
   * [NDC London 2023](https://www.youtube.com/watch?v=ND_AjF_KTD8&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8)
   * [NDC Security 2023](https://www.youtube.com/watch?v=BkigVNNSurI&list=PL03Lrmd9CiGey4D3-wb_2SWTmLJtGHC_j)
   * [NDC Sydney 2022](https://www.youtube.com/watch?v=kMI1wAQ3XeQ&list=PL03Lrmd9CiGdFcrzX9VXWYvr21rnGYPry)
@@ -488,6 +502,8 @@
 * [Microsoft Visual Studio](https://www.youtube.com/@visualstudio)
 * [CodecampRomania](https://www.youtube.com/@CodecampRomania)
 * [Nick Chapsas](https://www.youtube.com/@nickchapsas)
+  * [C# 13 and .NET 9](https://www.youtube.com/watch?v=l5RA_x-WbC8&list=PLUOequmGnXxOg34RURcrevdSC3sOZ8aBn)
+  * [C# 12 and .NET 8](https://www.youtube.com/watch?v=kPXBmyhfHZU&list=PLUOequmGnXxOLF5jNVTiprBCVLGVDP10f)
   * [C# 11 and .NET 7](https://www.youtube.com/watch?v=Oi_sL3aFlBc&list=PLUOequmGnXxPE5bfTYalE4DKThjrJFdOW)
   * [.NET general videos](https://www.youtube.com/watch?v=GVJ5EUhWQBc&list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL)
   * [.NET Core videos](https://www.youtube.com/watch?v=YzOBrVlthMk&list=PLUOequmGnXxOFPJv8H7DNIappcta9brtN)
@@ -503,20 +519,38 @@
 * [Raw Coding](https://www.youtube.com/@RawCoding)
   * [Authentication and Authorization](https://www.youtube.com/watch?v=ExQJljpj1lY&list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi)
   * [C# clean code tips](https://www.youtube.com/watch?v=ggk4qOUNXsY&list=PLOeFnOV9YBa7ngvQxCFfPo5G1C6OhDxa-)
+  * [C# design patterns](https://www.youtube.com/watch?v=xN7EFHU_rXA&list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
   * [SignalR](https://www.youtube.com/watch?v=OwiOvNwc7qc&list=PLOeFnOV9YBa7nzzuXnThdfsyY06AuCP5V)
   * [Minimal API](https://www.youtube.com/watch?v=3SfA5m4CmAU&list=PLOeFnOV9YBa5hWonaiQ8Kq13eMu7nhbm2)
   * [Distributed Caching with Redis](https://www.youtube.com/watch?v=fb0XZTAURCo&list=PLOeFnOV9YBa77eJeW39a5Q2lsyfdxpE_d)
 * [Milan Jovanovic](https://www.youtube.com/@MilanJovanovicTech)
+  * [Domain-Driven Design](https://www.youtube.com/watch?v=fO2T5tRu3DE&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn)
   * [Clean Architecture and DDD](https://www.youtube.com/watch?v=tLk4pZZtiDY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa)
   * [EF Core](https://www.youtube.com/watch?v=bN57EDYD6M0&list=PLYpjLpq5ZDGtE9kCEhIiK2C9tMZaTdNcN)
   * [Design Patterns](https://www.youtube.com/watch?v=h4KIngWVpfU&list=PLYpjLpq5ZDGsQUN89adlTUFtmT1q6-YW3)
+  * [Railway-Oriented Programming](https://www.youtube.com/watch?v=zuy2j8vxgYc&list=PLYpjLpq5ZDGs4XtFbelLZl-bwPyNyjJSI)
   * [Web APIs](https://www.youtube.com/watch?v=H3EbflpXVmo&list=PLYpjLpq5ZDGu8RXq5HoLqTll3YLBr3PNY)
   * [Authentication and Authorization](https://www.youtube.com/watch?v=4cFhYUK8wnc&list=PLYpjLpq5ZDGtJOHUbv7KHuxtYLk1nJPw5)
+* [Zoran Horvat](https://www.youtube.com/@zoran-horvat)
+  * [Practical C# Design](https://www.youtube.com/watch?v=n17U7ntLMt4&list=PLSDYwLgFqaX78eEg_YKs0wHmOMi7_ggZr)
+  * [Design Patterns in C# and .NET](https://www.youtube.com/watch?v=oD99AyEzyEU&list=PLSDYwLgFqaX67uAmvdKQVCtiQ0-Ji2DXP&pp=iAQB)
+  * [AI talks C#](https://www.youtube.com/watch?v=jJvBS6djzDg&list=PLSDYwLgFqaX6EZxA_lTQj2ih7Me1XB5ax)
+  * [How does the .NET Runtime work?](https://www.youtube.com/watch?v=b0IDTWoaUJ0&list=PLSDYwLgFqaX6a1IDn7j3UVZdAs0lqDypp)
+  * [Write code with no bugs!](https://www.youtube.com/watch?v=N6uR97S8geE&list=PLSDYwLgFqaX6rSZSEVpaI4mjFXTWZqBrM)
+* [CodeOpinion](https://www.youtube.com/@CodeOpinion)
+  * [Software Design](https://www.youtube.com/watch?v=GtWVGJp061A&list=PLThyvG1mlMznuNW2tITIGmgQqJikLBqab&pp=iAQB)
+  * [Architecture](https://www.youtube.com/watch?v=48C-RsEu0BQ&list=PLThyvG1mlMzkQklYlHp_CdO5IEJ3i_ary)
+  * [Loosely coupled monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ&list=PLThyvG1mlMznIDBtd5HadrmC5hayjpCtI)
+  * [CQRS](https://www.youtube.com/watch?v=LbVpPQaAgVY&list=PLThyvG1mlMznwqEruP2y0jm-tX74rvnK4)
+  * [Event Sourcing](https://www.youtube.com/watch?v=AUj4M-st3ic&list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
+  * [Messaging](https://www.youtube.com/watch?v=L8eH1XaRnPw&list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
+  * [HTTP API](https://www.youtube.com/watch?v=OcWa0WJBF2U&list=PLThyvG1mlMzk9bWLp4UzG4NFTYaWsc105)
 * [Code Aesthetic](https://www.youtube.com/@CodeAesthetic)
+* [Fireship](https://www.youtube.com/@Fireship)
 * [Dave's Garage](https://www.youtube.com/@DavesGarage)
-* [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
 * [DotNextConf](https://www.youtube.com/@DotNextConf)
 * [DevTernity](https://www.youtube.com/@DevTernity)
+* [IAmTimCorey](https://www.youtube.com/@IAmTimCorey)
 
 ### Kevlin Henney
 * [Clean coders hate what happens to your code when you use these enterprise programming tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
