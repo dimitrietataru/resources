@@ -48,13 +48,15 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.3/8.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |8.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.2/8.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |8.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.1/8.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |8.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.0/8.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)|
 
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
+|7.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.17/7.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |7.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.16/7.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |7.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.15/7.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |7.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.14/7.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
@@ -74,7 +76,8 @@
 
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
+|8.0.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.28/6.0.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |6.0.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.27/6.0.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |6.0.26|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.26/6.0.26.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |6.0.25|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.25/6.0.25.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
@@ -105,7 +108,7 @@
 
 #### [.NET 5](https://github.com/dotnet/core/tree/main/release-notes/5.0)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
 |5.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.17/5.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/may-2022-updates)|
 |5.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.16/5.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2022-updates)|
 |5.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/5.0/5.0.15/5.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2022-updates)|
@@ -127,7 +130,7 @@
 
 #### [.NET Core 3.1](https://github.com/dotnet/core/tree/main/release-notes/3.1)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
 |3.1.32|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.32/3.1.32.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/december-2022-updates)|
 |3.1.31|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.31/3.1.31.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2022-updates)|
 |3.1.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/3.1/3.1.30/3.1.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/october-2022-updates)|
@@ -185,7 +188,7 @@
 
 #### [.NET Core 2.1](https://github.com/dotnet/core/tree/main/release-notes/2.1)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
 |2.1.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/2.1/2.1.30/2.1.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-august-2021)|
 |2.1.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/2.1/2.1.28/2.1.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-may-2021)|
 |2.1.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/2.1/2.1.27/2.1.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-april-2021)|
@@ -230,7 +233,7 @@
 
 #### [.NET Core 1.1](https://github.com/dotnet/core/tree/main/release-notes/1.1)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
 |1.1.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.1/1.1.13/1.1.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-may-2019)|
 |1.1.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.1/1.1.12/1.1.12.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-march-2019)|
 |1.1.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.1/1.1.11/1.1.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-february-2019)|
@@ -247,7 +250,7 @@
 
 #### [.NET Core 1.0](https://github.com/dotnet/core/tree/main/release-notes/1.0)
 ||||
-|:---:|:---:|:---:|
+|:----:|:---:|:---:|
 |1.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.0/1.0.16/1.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-may-2019)|
 |1.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.0/1.0.15/1.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-march-2019)|
 |1.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/1.0/1.0.14/1.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-core-february-2019)|
