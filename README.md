@@ -48,6 +48,7 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.4/8.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |8.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.3/8.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |8.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.2/8.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |8.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.1/8.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
@@ -56,6 +57,7 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:----:|:---:|:---:|
+|7.0.18|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.18/7.0.18.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |7.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.17/7.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |7.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.16/7.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |7.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.15/7.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
@@ -77,7 +79,8 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:----:|:---:|:---:|
-|8.0.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.28/6.0.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
+|6.0.29|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.29/6.0.29.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
+|6.0.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.28/6.0.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |6.0.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.27/6.0.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
 |6.0.26|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.26/6.0.26.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/january-2024-updates)|
 |6.0.25|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.25/6.0.25.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/november-2023-updates)|
@@ -453,6 +456,7 @@
   * [Web](https://www.youtube.com/watch?v=wKU65gV6FSA&list=PL03Lrmd9CiGfe6Q-Vpgkr4LueSh6kT3m0&pp=iAQB)
   * [Data and Machine Learning](https://www.youtube.com/watch?v=RDVKl-27g9M&list=PL03Lrmd9CiGfjOFcUf4a9K7NUr3McG_ME&pp=iAQB)
   * [People and Process](https://www.youtube.com/watch?v=ASQf8FPp4S4&list=PL03Lrmd9CiGc0BJbLNB_HIf8Mgsbp2zAD)
+  * [NDC London 2024](https://www.youtube.com/watch?v=YvATKH-Tirw&list=PL03Lrmd9CiGd3aTusfWrcilZQQ-bHQ6eP)
   * [NDC Security 2024](https://www.youtube.com/watch?v=IZyXOYNXbPk&list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2&pp=iAQB)
   * [NDC Porto 2023](https://www.youtube.com/watch?v=vs3i_T2B5p4&list=PL03Lrmd9CiGfFN4igoVI4oiWbVJ93EVyR)
   * [NDC TechTown 2023](https://www.youtube.com/watch?v=DRgoEKrTxXY&list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo)
@@ -550,6 +554,7 @@
   * [HTTP API](https://www.youtube.com/watch?v=OcWa0WJBF2U&list=PLThyvG1mlMzk9bWLp4UzG4NFTYaWsc105)
 * [Code Aesthetic](https://www.youtube.com/@CodeAesthetic)
 * [Fireship](https://www.youtube.com/@Fireship)
+* [ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen)
 * [Dave's Garage](https://www.youtube.com/@DavesGarage)
 * [DotNextConf](https://www.youtube.com/@DotNextConf)
 * [DevTernity](https://www.youtube.com/@DevTernity)
