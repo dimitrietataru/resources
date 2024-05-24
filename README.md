@@ -19,6 +19,7 @@
 <details> 
   <summary>Expand</summary>
 
+* [C# 13](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13)
 * [C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
 * [C# 11](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
 * [C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
@@ -45,9 +46,12 @@
 <details> 
   <summary>Expand</summary>
 
+#### [.NET 9](https://github.com/dotnet/core/tree/main/release-notes/9.0)
+
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.5/8.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |8.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.4/8.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |8.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.3/8.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |8.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.2/8.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
@@ -57,6 +61,7 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:----:|:---:|:---:|
+|7.0.19|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.19/7.0.19.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |7.0.18|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.18/7.0.18.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |7.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.17/7.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |7.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.16/7.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
@@ -79,6 +84,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:----:|:---:|:---:|
+|6.0.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.30/6.0.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |6.0.29|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.29/6.0.29.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |6.0.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.28/6.0.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
 |6.0.27|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.27/6.0.27.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/february-2024-updates)|
@@ -456,6 +462,7 @@
   * [Web](https://www.youtube.com/watch?v=wKU65gV6FSA&list=PL03Lrmd9CiGfe6Q-Vpgkr4LueSh6kT3m0&pp=iAQB)
   * [Data and Machine Learning](https://www.youtube.com/watch?v=RDVKl-27g9M&list=PL03Lrmd9CiGfjOFcUf4a9K7NUr3McG_ME&pp=iAQB)
   * [People and Process](https://www.youtube.com/watch?v=ASQf8FPp4S4&list=PL03Lrmd9CiGc0BJbLNB_HIf8Mgsbp2zAD)
+  * [NDC Sydney 2024](https://www.youtube.com/watch?v=7EsNmOwqsWE&list=PL03Lrmd9CiGfoGyBqYl_GRAwMPcYFFo22)
   * [NDC London 2024](https://www.youtube.com/watch?v=YvATKH-Tirw&list=PL03Lrmd9CiGd3aTusfWrcilZQQ-bHQ6eP)
   * [NDC Security 2024](https://www.youtube.com/watch?v=IZyXOYNXbPk&list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2&pp=iAQB)
   * [NDC Porto 2023](https://www.youtube.com/watch?v=vs3i_T2B5p4&list=PL03Lrmd9CiGfFN4igoVI4oiWbVJ93EVyR)
@@ -495,7 +502,7 @@
   * [NDC Sydney 2018](https://www.youtube.com/watch?v=ukYuhyxXZMc&list=PL03Lrmd9CiGcqxJg1msfNXQ8tHLhXs4O7)
   * [NDC TechTown 2018](https://www.youtube.com/watch?v=VoHOLDdfDhk&list=PL03Lrmd9CiGdRHryVZBFFu6abvg-HJMmh)
   * [NDC Oslo 2018](https://www.youtube.com/watch?v=Jrjd5lfkzMk&list=PL03Lrmd9CiGfprrIjzbjdA2RRShJMzYIM)
-  * [NDC Minnesota 2018](https://www.youtube.com/watch?v=WMdBoeQtxUY&list=PL03Lrmd9CiGei7clxJEyIIbVTm5NWJPm7&index=2)
+  * [NDC Minnesota 2018](https://www.youtube.com/watch?v=WMdBoeQtxUY&list=PL03Lrmd9CiGei7clxJEyIIbVTm5NWJPm7)
   * [NDC London 2018](https://www.youtube.com/watch?v=J60aPHTlALs&list=PL03Lrmd9CiGc8PAJ70E204i-DKRTGHAdp)
   * [NDC Security 2018](https://www.youtube.com/watch?v=HfXC3MSk9dY&list=PL03Lrmd9CiGdb4e3PTMSXwVZ-TEvXEwpz)
   * [NDC TechTown 2017](https://www.youtube.com/watch?v=Xuqbl59f15A&list=PL03Lrmd9CiGeHIW7_TieRy3NZ9iHMEsUR)
@@ -533,6 +540,7 @@
 * [Milan Jovanovic](https://www.youtube.com/@MilanJovanovicTech)
   * [Domain-Driven Design](https://www.youtube.com/watch?v=fO2T5tRu3DE&list=PLYpjLpq5ZDGtR5nMKGDCa031hx1jVuHXn)
   * [Clean Architecture and DDD](https://www.youtube.com/watch?v=tLk4pZZtiDY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa)
+  * [Modular Monolith Architecture](https://www.youtube.com/watch?v=Xo3rsiZYsJQ&list=PLYpjLpq5ZDGvOGMF2tIHEkPKf7_5tXwr4)
   * [EF Core](https://www.youtube.com/watch?v=bN57EDYD6M0&list=PLYpjLpq5ZDGtE9kCEhIiK2C9tMZaTdNcN)
   * [Design Patterns](https://www.youtube.com/watch?v=h4KIngWVpfU&list=PLYpjLpq5ZDGsQUN89adlTUFtmT1q6-YW3)
   * [Railway-Oriented Programming](https://www.youtube.com/watch?v=zuy2j8vxgYc&list=PLYpjLpq5ZDGs4XtFbelLZl-bwPyNyjJSI)
