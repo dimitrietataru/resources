@@ -51,6 +51,8 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.7|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.7/8.0.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates)|
+|8.0.6|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.6/8.0.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |8.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.5/8.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |8.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.4/8.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |8.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.3/8.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
@@ -61,6 +63,7 @@
 #### [.NET 7](https://github.com/dotnet/core/tree/main/release-notes/7.0)
 ||||
 |:----:|:---:|:---:|
+|7.0.20|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.20/7.0.20.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |7.0.19|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.19/7.0.19.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |7.0.18|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.18/7.0.18.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |7.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/7.0/7.0.17/7.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
@@ -84,6 +87,8 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:----:|:---:|:---:|
+|6.0.32|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.32/6.0.32.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates)|
+|6.0.31|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.31/6.0.31.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |6.0.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.30/6.0.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |6.0.29|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.29/6.0.29.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/april-2024-updates)|
 |6.0.28|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.28/6.0.28.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/march-2024-updates)|
