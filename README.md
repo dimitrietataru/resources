@@ -751,9 +751,22 @@
   <summary>Expand</summary>
 
 * [dotnet / core](https://github.com/dotnet/core)
+* [dotnet / aspnetcore](https://github.com/dotnet/aspnetcore)
 * [dotnet / efcore](https://github.com/dotnet/efcore)
-* [khellang / Scrutor](https://github.com/khellang/Scrutor)
-* [nbarbettini / BeautifulRestApi](https://github.com/nbarbettini/BeautifulRestApi)
+* [dotnet / runtime](https://github.com/dotnet/runtime)
+* [dotnet / roslyn](https://github.com/dotnet/roslyn)
+* [dotnet / build](https://github.com/dotnet/msbuild)
+* [dotnet / analyzers](https://github.com/dotnet/roslyn-analyzers)
+
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper)
+* [Bogus](https://github.com/bchavez/Bogus)
+* [xunit](https://github.com/xunit/xunit)
+* [coverlet.collector](https://github.com/coverlet-coverage/coverlet)
+* [ReportGenerator](https://github.com/danielpalme/ReportGenerator)
+* [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
+* [Moq](https://github.com/devlooped/moq)
+* [Serilog](https://github.com/serilog/serilog)
+* [Scrutor](https://github.com/khellang/Scrutor)
 
 </details>
 
