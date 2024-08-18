@@ -9,6 +9,7 @@
 * [Object Oriented Programming](#object-oriented-programming)
 * [Videos](#videos)
 * [Books](#books)
+* [GitHub](#github)
 * [Other resources](#other-resources)
 
 
@@ -768,6 +769,7 @@
 * [ReportGenerator](https://github.com/danielpalme/ReportGenerator)
 * [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
 * [Moq](https://github.com/devlooped/moq)
+* [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 * [Serilog](https://github.com/serilog/serilog)
 * [Scrutor](https://github.com/khellang/Scrutor)
 
