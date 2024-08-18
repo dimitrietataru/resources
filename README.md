@@ -51,6 +51,7 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.8|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.8/8.0.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates)|
 |8.0.7|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.7/8.0.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates)|
 |8.0.6|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.6/8.0.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |8.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.5/8.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
@@ -87,6 +88,7 @@
 #### [.NET 6](https://github.com/dotnet/core/tree/main/release-notes/6.0)
 ||||
 |:----:|:---:|:---:|
+|6.0.33|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.33/6.0.33.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates)|
 |6.0.32|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.32/6.0.32.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2024-servicing-updates)|
 |6.0.31|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.31/6.0.31.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
 |6.0.30|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/6.0/6.0.30/6.0.30.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2024-servicing-updates)|
@@ -467,6 +469,7 @@
   * [Web](https://www.youtube.com/watch?v=wKU65gV6FSA&list=PL03Lrmd9CiGfe6Q-Vpgkr4LueSh6kT3m0&pp=iAQB)
   * [Data and Machine Learning](https://www.youtube.com/watch?v=RDVKl-27g9M&list=PL03Lrmd9CiGfjOFcUf4a9K7NUr3McG_ME&pp=iAQB)
   * [People and Process](https://www.youtube.com/watch?v=ASQf8FPp4S4&list=PL03Lrmd9CiGc0BJbLNB_HIf8Mgsbp2zAD)
+  * [NDC Oslo 2024](https://www.youtube.com/watch?v=v71xDI8S3LM&list=PL03Lrmd9CiGdnMlwisvEjKClATrAooE2U)
   * [NDC Sydney 2024](https://www.youtube.com/watch?v=7EsNmOwqsWE&list=PL03Lrmd9CiGfoGyBqYl_GRAwMPcYFFo22)
   * [NDC London 2024](https://www.youtube.com/watch?v=YvATKH-Tirw&list=PL03Lrmd9CiGd3aTusfWrcilZQQ-bHQ6eP)
   * [NDC Security 2024](https://www.youtube.com/watch?v=IZyXOYNXbPk&list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2&pp=iAQB)
