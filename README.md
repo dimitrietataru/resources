@@ -48,11 +48,13 @@
   <summary>Expand</summary>
 
 #### [.NET 9](https://github.com/dotnet/core/tree/main/release-notes/9.0)
+|9.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.1/9.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates)|
 |9.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.0/9.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9)|
 
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.12|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.12/8.0.12.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates)|
 |8.0.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.11/8.0.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2024-servicing-updates)|
 |8.0.10|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.10/8.0.10.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2024-servicing-updates)|
 |8.0.8|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.8/8.0.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2024-updates)|
