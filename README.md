@@ -48,7 +48,22 @@
 <details> 
   <summary>Expand</summary>
 
+#### [.NET 10](https://github.com/dotnet/core/tree/main/release-notes/9.0)
+||||
+|:---:|:---:|:---:|
+|10.0.1|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/10.0/10.0.1/10.0.1.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates)|
+|10.0.0|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/10.0/10.0.0/10.0.0.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10)|
+
 #### [.NET 9](https://github.com/dotnet/core/tree/main/release-notes/9.0)
+||||
+|:---:|:---:|:---:|
+|9.0.11|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.11/9.0.11.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates)|
+|9.0.10|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.10/9.0.10.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates)|
+|9.0.9|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.9/9.0.9.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates)|
+|9.0.8|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.8/9.0.8.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates)|
+|9.0.7|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.7/9.0.7.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates)|
+|9.0.6|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.6/9.0.6.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates)|
+|9.0.5|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.5/9.0.5.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates)|
 |9.0.4|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.4/9.0.4.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates)|
 |9.0.3|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.3/9.0.3.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates)|
 |9.0.2|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/9.0/9.0.2/9.0.2.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates)|
@@ -58,6 +73,13 @@
 #### [.NET 8](https://github.com/dotnet/core/tree/main/release-notes/8.0)
 ||||
 |:---:|:---:|:---:|
+|8.0.22|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.22/8.0.22.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates)|
+|8.0.21|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.21/8.0.21.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates)|
+|8.0.20|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.20/8.0.20.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates)|
+|8.0.19|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.19/8.0.19.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates)|
+|8.0.18|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.18/8.0.18.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates)|
+|8.0.17|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.17/8.0.17.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates)|
+|8.0.16|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.16/8.0.16.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates)|
 |8.0.15|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.15/8.0.15.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2025-servicing-updates)|
 |8.0.14|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.14/8.0.14.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2025-servicing-updates)|
 |8.0.13|[Release notes](https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.13/8.0.13.md)|[Blog roundup](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2025-servicing-updates)|
